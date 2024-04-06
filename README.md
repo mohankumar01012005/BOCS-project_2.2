@@ -1,1 +1,1 @@
-# BOCS-project_2.2
+# project2.2
